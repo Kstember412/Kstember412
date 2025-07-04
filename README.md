@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋 I'm Katie Stember!
 
-<!--
-**Kstember412/Kstember412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on building fun and functional web and mobile projects as I level up my development skills.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning web development (HTML, CSS, JavaScript) and mobile app development (Flutter & Dart).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on beginner-friendly open source projects and creative apps that solve real-world problems.
+
+🤔 I’m looking for help with backend and frontend integration, hosting, and navigating real-world deployment challenges.
+
+💬 Ask me about what I’ve been learning lately or any cool project ideas you’re working on—I love swapping creative energy!
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: I think of code as a kind of digital art—every line can shape an experience or spark an idea!
